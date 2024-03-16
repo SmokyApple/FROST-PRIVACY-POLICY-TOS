@@ -1,30 +1,18 @@
-## Terms of Service
 
-# Introduction and accepting of ToS
-By inviting and using our bot you automatically agree to our Terms of Service below.
-By accepting Mystic ("our", "we", "us") Terms of Service ("ToS") you agree that you've agreed to [Discord ToS](https://discord.com/terms) and meet every requirement mentioned there. You ("you", "your") also agree that you've read our Privacy Policy and agreed to it.
+# Privacy Policy
+The use of this application ("Atron") in a server requires the collection of some specific user data ("Data"). The data collected includes, but is not limited to Discord user ID values. Use of the Bot is considered an agreement to the terms of this Policy.
 
-# Rights to use our service
-You have the right to use our service as long as you don't use it in any way that would break [Discords ToS](https://discord.com/terms) or the rules of the guild ("server") you're in. We reserve the right to permanently block you from our services, deny support and/or services or report you to discord.
+# Access to Data
+Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon requesting in [Lunar Development](https://discord.com/invite/t52breZHkr)..
 
-We are not responsible for content generated via our bot by users that is violating [Discords ToS](https://discord.com/terms) in any way.
+# Storage of Data
+Data is stored in a Sqlite database. The database is secured to prevent external access, however no guarantee is provided and the Bot owners assume no liability for the unintentional or malicious breach of Data. In the event of an unauthorized Data access, users will be notified through the Discord client application.
 
+# User Rights
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through Our Discord: Encoders. You have the right to request the removal of relevant Data.
 
-## **Privacy Policy**
+# Underage Users
+The use of the Bot is not permitted for minors under the age of 13, or under the age of legal consent for their country. This is in compliance with the Discord Terms of Service. No information will be knowingly stored from an underage user. If it is found out that a user is underage we will take all necessary action to delete the stored data.
 
-#References
-In this whole document when being referred as "we" or "us", Rectangle Development as a whole is meant with everybody responsible.
-When referring to "personal data", your discord user-id and other information accessible to every other discord user is meant as well as personal information you pass on via a command usages.
-
-# Collection of data
-1. We do not collect any kind of personal data that you didn't authorize. Messages are only processed when being asked to do so (e.g. by using one of the bulk setup commands). Data from presences (including custom statuses and others), messages contents and other personal user-generated content is not being saved in any way.
-2. Data is only collected for providing services such as premium access. For this process only your user-id is stored to provide optimal experience
-3. Data is anonymously collected for analytic purposes. This means information such as when our bot got added to a server or command usages / errors.
-We DO NOT connect this data to you as a user. This data is only used to optimize our services and advance the user experience.
-
-# Distribution of data
-None of your data is being distributed to anybody else, it is only used in internal processes to improve user experience and services.
-
-#Deletion of data
-All user-related data can be deleted by us on request in the [support server](https://discord.com/invite/DPWc3DwBds).
-
+# Questions
+If you have any questions or are concerned about what data might be being stored from your account contact [@.crorepatti](https://discord.com/invite/t52breZHkr). For more information check the [Discord Terms Of Service](https://discord.com).
